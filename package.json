@@ -1,0 +1,16 @@
+{
+  "name": "selenium-testrail",
+  "version": "1.0.0",
+  "description": "Research Selenium with testrail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fadlika Dita Nurjanto",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^83.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "testrail-api": "^1.3.6"
+  }
+}
